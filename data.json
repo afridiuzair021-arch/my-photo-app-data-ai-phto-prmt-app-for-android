@@ -6,12 +6,12 @@
   },
   {
     "id": 2,
-    "imageUrl": "https://i.ibb.co/B24nZ7L/image2.jpg",
+    "imageUrl": "https://i.ibb.co/B24nZ77L/image2.jpg",
     "prompt": "A peaceful mountain landscape during sunrise, oil painting."
   },
   {
     "id": 3,
-    "imageUrl": "https://i.ibb.co/0jHw2Hj/image3-1.jpg",
+    "imageUrl": "https://i.ibb.co/0jHw2hJn/image3-1.jpg",
     "prompt": "A cinematic shot of a neon city, 8k resolution, cyberpunk style."
   },
   {
@@ -20,3 +20,4 @@
     "prompt": "A peaceful mountain landscape during sunrise, oil painting."
   }
 ]
+
