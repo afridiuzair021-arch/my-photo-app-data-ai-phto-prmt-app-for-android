@@ -8,6 +8,7 @@
     "id": 2,
     "imageUrl": "https://i.ibb.co/dJgbbfZs/Gemini-Generated-Image-697hq1697hq1697h.png",
     "prompt": "with a deep royal"
+    "isPremium": true
   },
   {
     "id": 3,
@@ -55,4 +56,5 @@
     "prompt": "A peaceful mountain landscape during sunrise, oil painting."
   }
 ]
+
 
